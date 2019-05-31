@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://bao123:Bao8842553@devuser-k1v96.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "mysecrettoken"
+}
